@@ -6,20 +6,20 @@
 1. **Fundamentals.**
 
 
-    * Reinforcement learning 
+    * Reinforcement Learning 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_1.pdf)] 
     [[lecture note](https://github.com/wangshusen/DeepLearning/blob/master/LectureNotes/DRL/DRL.pdf)] 
     [[Video (in Chinese)](https://youtu.be/vmkRMvhCW5c)].
 
-    * Value-based learning 
+    * Value-Based Learning 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_2.pdf)] 
     [[Video (in Chinese)](https://youtu.be/jflq6vNcZyA)].
 
-    * Policy-based learning 
+    * Policy-Based Learning 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_3.pdf)] 
     [[Video (in Chinese)](https://youtu.be/qI0vyfR2_Rc)].
 
-    * Actor-critic methods 
+    * Actor-Critic Methods 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_4.pdf)] 
     [[Video (in Chinese)](https://youtu.be/xjd7Jq9wPQY)].
 
@@ -37,6 +37,8 @@
     * Double DQN.
     
     * Dueling DQN.
+    
+    * Multi-Step Return.
 
 
 
@@ -48,11 +50,13 @@
     * Advantage Actor-Critic (A2C).
     
     * Trust-Region Policy Optimization (TRPO).
+    
+    * Policy Network + RNNs.
 
 
 4. **Multi-Agent Reinforcement Learning.**
 
-    * Basics and challenges 
+    * Basics and Challenges 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_MARL_1.pdf)] 
     [[Video (in Chinese)](https://youtu.be/KN-XMQFTD0o)].
 
@@ -60,3 +64,11 @@
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_MARL_2.pdf)] 
     [[Video (in Chinese)](https://youtu.be/0HV1hsjd1y8)].
 
+
+
+5. **Imitation Learning.**
+
+
+    * Inverse Reinforcement Learning.
+    
+    * Generative Adversarial Imitation Learning (GAIL).
