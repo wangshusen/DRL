@@ -32,20 +32,21 @@
 2. **Advanced Topics on Value-Based Learning.**
 
 
-    * Experience Replay.
+    * Experience Replay (ER) & Prioritized ER.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_DQN_1.pdf)] 
     
-    * Double DQN.
+    * Overestimation, Target Network, & Double DQN.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_DQN_2.pdf)] 
     
-    * Dueling DQN.
+    * TD Learning Recap & Multi-Step Return.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_DQN_3.pdf)] 
     
-    * Multi-Step Return.
+    * Dueling Networks.
 
 
 
-2. **Advanced Topics on Policy-Based Learning.**
+3. **Advanced Topics on Policy-Based Learning.**
 
-
-    * Deterministic Policy Gradient (DPG).
     
     * Advantage Actor-Critic (A2C).
     
@@ -54,7 +55,18 @@
     * Policy Network + RNNs.
 
 
-4. **Multi-Agent Reinforcement Learning.**
+
+4. **Dealing with Continuous Action Space.**
+
+
+    * Deterministic Policy Gradient (DPG) for Continuous Control.
+
+    * Stochastic Policy Gradient for Continuous Control.
+    
+    
+
+5. **Multi-Agent Reinforcement Learning.**
+
 
     * Basics and Challenges 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_MARL_1.pdf)] 
@@ -66,9 +78,11 @@
 
 
 
-5. **Imitation Learning.**
+6. **Imitation Learning.**
 
 
     * Inverse Reinforcement Learning.
     
     * Generative Adversarial Imitation Learning (GAIL).
+
+
