@@ -107,11 +107,11 @@
 
 
     * Basics and Challenges 
-    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_MARL_1.pdf)] 
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/7_MARL_1.pdf)] 
     [[Video (in Chinese)](https://youtu.be/KN-XMQFTD0o)].
 
     * Centralized VS Decentralized 
-    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_MARL_2.pdf)] 
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/7_MARL_2.pdf)] 
     [[Video (in Chinese)](https://youtu.be/0HV1hsjd1y8)].
 
 
