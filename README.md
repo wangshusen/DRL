@@ -3,7 +3,7 @@
 
 
 
-1. **Fundamentals.**
+1. **Overview.**
 
 
     * Reinforcement Learning 
@@ -26,29 +26,62 @@
     * AlphaGo 
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/1_Basics_5.pdf)] 
     [[Video (in Chinese)](https://youtu.be/zHojAp5vkRE)].
+    
+    
 
 
 
-2. **Advanced Topics on Value-Based Learning.**
+2. **TD Learning.**
+    
+    * Sarsa.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_1.pdf)] 
+    
+    * Q-learning.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_2.pdf)] 
+    
+    * Multi-Step TD Target.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_3.pdf)] 
+    
+    
+    
+
+
+3. **Advanced Topics on Value-Based Learning.**
 
 
     * Experience Replay (ER) & Prioritized ER.
-    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_DQN_1.pdf)] 
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_1.pdf)]
+    [[Video (in Chinese)]()]. 
     
     * Overestimation, Target Network, & Double DQN.
-    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_DQN_2.pdf)] 
-    
-    * TD Learning Recap & Multi-Step Return.
-    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_DQN_3.pdf)] 
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_2.pdf)] 
+    [[Video (in Chinese)]()]. 
     
     * Dueling Networks.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_3.pdf)]
+    [[Video (in Chinese)]()]. 
 
 
 
-3. **Advanced Topics on Policy-Based Learning.**
 
+4. **Policy Gradient with Baseline.**
+
+
+    * Policy Gradient with Baseline.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_1.pdf)]
+    
+    * REINFORCE with Baseline.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_2.pdf)]
     
     * Advantage Actor-Critic (A2C).
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_3.pdf)]
+    
+    * REINFORCE versus A2C.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_4.pdf)]
+    
+
+
+5. **Advanced Topics on Policy-Based Learning.**
     
     * Trust-Region Policy Optimization (TRPO).
     
@@ -56,16 +89,21 @@
 
 
 
-4. **Dealing with Continuous Action Space.**
+6. **Dealing with Continuous Action Space.**
 
+
+    * Discrete versus Continuous Control.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/6_Continuous_1.pdf)] 
 
     * Deterministic Policy Gradient (DPG) for Continuous Control.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/6_Continuous_2.pdf)] 
 
     * Stochastic Policy Gradient for Continuous Control.
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/6_Continuous_3.pdf)] 
     
     
 
-5. **Multi-Agent Reinforcement Learning.**
+7. **Multi-Agent Reinforcement Learning.**
 
 
     * Basics and Challenges 
@@ -78,7 +116,7 @@
 
 
 
-6. **Imitation Learning.**
+8. **Imitation Learning.**
 
 
     * Inverse Reinforcement Learning.
