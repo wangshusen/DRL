@@ -35,12 +35,15 @@
     
     * Sarsa.
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_1.pdf)] 
+    [[Video (in Chinese)](https://youtu.be/-cYWdUubB6Q)]. 
     
     * Q-learning.
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_2.pdf)] 
+    [[Video (in Chinese)](https://youtu.be/Ymy2w3DGn2U)]. 
     
     * Multi-Step TD Target.
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_3.pdf)] 
+    [[Video (in Chinese)](https://youtu.be/UqTP138IATc)]. 
     
     
     
@@ -51,15 +54,12 @@
 
     * Experience Replay (ER) & Prioritized ER.
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_1.pdf)]
-    [[Video (in Chinese)]()]. 
     
     * Overestimation, Target Network, & Double DQN.
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_2.pdf)] 
-    [[Video (in Chinese)]()]. 
     
     * Dueling Networks.
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_3.pdf)]
-    [[Video (in Chinese)]()]. 
 
 
 
