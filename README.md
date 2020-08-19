@@ -33,17 +33,17 @@
 
 2. **TD Learning.**
     
-    * Sarsa.
+    * Sarsa
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_1.pdf)] 
-    [[Video (in Chinese)](https://youtu.be/-cYWdUubB6Q)]. 
+    [[Video (in Chinese)](https://youtu.be/-cYWdUubB6Q)].
     
-    * Q-learning.
+    * Q-learning
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_2.pdf)] 
-    [[Video (in Chinese)](https://youtu.be/Ymy2w3DGn2U)]. 
+    [[Video (in Chinese)](https://youtu.be/Ymy2w3DGn2U)].
     
-    * Multi-Step TD Target.
+    * Multi-Step TD Target
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/2_TD_3.pdf)] 
-    [[Video (in Chinese)](https://youtu.be/UqTP138IATc)]. 
+    [[Video (in Chinese)](https://youtu.be/UqTP138IATc)].
     
     
     
@@ -52,8 +52,9 @@
 3. **Advanced Topics on Value-Based Learning.**
 
 
-    * Experience Replay (ER) & Prioritized ER.
+    * Experience Replay (ER) & Prioritized ER
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_1.pdf)]
+    [[Video (in Chinese)](https://youtu.be/rhslMPmj7SY)].
     
     * Overestimation, Target Network, & Double DQN.
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_2.pdf)] 
