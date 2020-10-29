@@ -56,11 +56,13 @@
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_1.pdf)]
     [[Video (in Chinese)](https://youtu.be/rhslMPmj7SY)].
     
-    * Overestimation, Target Network, & Double DQN.
+    * Overestimation, Target Network, & Double DQN
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_2.pdf)] 
+    [[Video (in Chinese)](https://youtu.be/X2-56QN79zc)].
     
-    * Dueling Networks.
+    * Dueling Networks
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/3_DQN_3.pdf)]
+    [[Video (in Chinese)](https://youtu.be/DBux6cA0EoM)].
 
 
 
@@ -68,17 +70,21 @@
 4. **Policy Gradient with Baseline.**
 
 
-    * Policy Gradient with Baseline.
+    * Policy Gradient with Baseline
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_1.pdf)]
+    [[Video (in Chinese)](https://youtu.be/yNEqbptitZs)].
     
-    * REINFORCE with Baseline.
+    * REINFORCE with Baseline
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_2.pdf)]
+    [[Video (in Chinese)](https://youtu.be/Ob78ADXTQNo)].
     
-    * Advantage Actor-Critic (A2C).
+    * Advantage Actor-Critic (A2C)
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_3.pdf)]
+    [[Video (in Chinese)](https://youtu.be/mtT4TSGSon8)].
     
-    * REINFORCE versus A2C.
+    * REINFORCE versus A2C
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/4_Policy_4.pdf)]
+    [[Video (in Chinese)](https://youtu.be/hN9WMIMMeAI)].
     
 
 
