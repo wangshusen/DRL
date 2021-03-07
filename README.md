@@ -90,7 +90,8 @@
 
 5. **Advanced Topics on Policy-Based Learning.**
     
-    * Trust-Region Policy Optimization (TRPO).
+    * Trust-Region Policy Optimization (TRPO)
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/5_Policy_1.pdf)]
     
     * Policy Network + RNNs.
 
