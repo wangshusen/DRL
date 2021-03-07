@@ -92,22 +92,26 @@
     
     * Trust-Region Policy Optimization (TRPO)
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/5_Policy_1.pdf)]
+    [[Video (in Chinese)](https://youtu.be/fcSYiyvPjm4)].
     
-    * Policy Network + RNNs.
+    * Partial Observation and RNNs.
 
 
 
 6. **Dealing with Continuous Action Space.**
 
 
-    * Discrete versus Continuous Control.
-    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/6_Continuous_1.pdf)] 
+    * Discrete versus Continuous Control
+    [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/6_Continuous_1.pdf)]
+    [[Video (in Chinese)](https://youtu.be/rRIjgdxSvg8)].
 
-    * Deterministic Policy Gradient (DPG) for Continuous Control.
+    * Deterministic Policy Gradient (DPG) for Continuous Control
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/6_Continuous_2.pdf)] 
+    [[Video (in Chinese)](https://youtu.be/cmWejKRWLA8)].
 
-    * Stochastic Policy Gradient for Continuous Control.
+    * Stochastic Policy Gradient for Continuous Control
     [[slides](https://github.com/wangshusen/DRL/blob/master/Slides/6_Continuous_3.pdf)] 
+    [[Video (in Chinese)](https://youtu.be/McqFyl_W5Wc)].
     
     
 
